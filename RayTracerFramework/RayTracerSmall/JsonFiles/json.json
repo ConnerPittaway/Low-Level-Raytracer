@@ -1,0 +1,81 @@
+{
+	"sphereNumber": 2,
+    "spheres": [
+        {
+            "center": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -20.0
+            },
+			"centerEnd": {
+				"x": 10.0,
+				"y": 5.0,
+				"z": -25.0
+			},
+            "emissionColour": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+			"emissionColourEnd": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "radius": 2.0,
+			"radiusEnd": 10.0,
+            "reflection": 0.0,
+			"reflectionEnd": 0.2,
+            "surfaceColour": {
+                "x": 1.00,
+                "y": 0.32,
+                "z": 0.46
+            },
+			"surfaceColourEnd": {
+                "x": 0.24,
+                "y": 0.5,
+                "z": 0.9
+            },
+            "transparency": 1.0,
+			"transparencyEnd": 1.0
+        },
+        {
+            "center": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": -25.0
+            },
+			"centerEnd": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": -20.0
+			},
+            "emissionColour": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+			"emissionColourEnd": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "radius": 3.0,
+			"radiusEnd": 2.0,
+            "reflection": 1.0,
+			"reflectionEnd": 1.0,
+            "surfaceColour": {
+                "x": 0.65,
+                "y": 0.77,
+                "z": 0.97
+            },
+			"surfaceColourEnd": {
+                "x": 0.24,
+                "y": 0.5,
+                "z": 0.9
+            },
+            "transparency": 1.0,
+			"transparencyEnd": 1.0
+        }
+    ]
+}
